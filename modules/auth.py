@@ -60,4 +60,4 @@ def render_login_page():
                 st.rerun()
         
         st.markdown("---")
-        st.info("**Demo Credentials:**\n- Admin: `admin` / `admin123`\n- Student: `student` / `student123`")
+        # st.info("**Demo Credentials:**\n- Admin: `admin` / `admin123`\n- Student: `student` / `student123`")

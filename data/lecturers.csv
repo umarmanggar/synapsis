@@ -1,0 +1,21 @@
+id,nip,name,email,main_expertise,expertise_keywords,quota,contact,created_at
+1,198777572,Dewi Saputra,dewi.saputra@university.ac.id,Cybersecurity,"Network Security, Cryptography, Forensics",6,+6282158682846,2020-07-28
+2,198619176,Siti Sari,siti.sari@university.ac.id,IoT,"Sensor Networks, Embedded Systems, Automation",3,+6281327978094,2021-03-23
+3,198631262,Hana Kusuma,hana.kusuma@university.ac.id,Machine Learning,"AI, Neural Network, Deep Learning, Data Mining",6,+6283001823908,2022-07-08
+4,198848749,Taufik Rahmawati,taufik.rahmawati@university.ac.id,Machine Learning,"AI, Neural Network, Deep Learning, Data Mining",5,+6288493453178,2021-11-27
+5,198225772,Indra Pratama,indra.pratama@university.ac.id,Cloud Computing,"Virtualization, Kubernetes, AWS, Azure",4,+6285893307665,2020-07-17
+6,198633052,Laksana Santoso,laksana.santoso@university.ac.id,Cybersecurity,"Network Security, Cryptography, Forensics",3,+6288629141456,2023-01-03
+7,198082627,Dewi Hidayat,dewi.hidayat@university.ac.id,Computer Vision,"Image Processing, Object Detection, CNN",7,+6289195970241,2023-03-28
+8,198048050,Gilang Sari,gilang.sari@university.ac.id,Data Science,"Statistics, Predictive Modeling, Data Visualization",7,+6285431494220,2021-04-21
+9,198291476,Dewi Hidayat,dewi.hidayat@university.ac.id,Natural Language Processing,"Text Mining, Sentiment Analysis, Chatbot",8,+6286193561321,2021-12-28
+10,198735911,Gilang Rahmawati,gilang.rahmawati@university.ac.id,Software Engineering,"Software Design, Agile, Testing, DevOps",5,+6282251454923,2022-08-04
+11,198970342,Maya Rahmawati,maya.rahmawati@university.ac.id,Computer Vision,"Image Processing, Object Detection, CNN",6,+6288435363119,2020-04-24
+12,198844151,Hana Saputra,hana.saputra@university.ac.id,Cloud Computing,"Virtualization, Kubernetes, AWS, Azure",9,+6282349938334,2021-03-08
+13,198222955,Taufik Santoso,taufik.santoso@university.ac.id,Natural Language Processing,"Text Mining, Sentiment Analysis, Chatbot",9,+6288255995058,2020-10-19
+14,198258607,Indra Pratama,indra.pratama@university.ac.id,Computer Vision,"Image Processing, Object Detection, CNN",7,+6288001222128,2022-01-11
+15,198534277,Hana Pratama,hana.pratama@university.ac.id,Natural Language Processing,"Text Mining, Sentiment Analysis, Chatbot",4,+6284446059658,2020-08-12
+16,198830555,Eko Pratama,eko.pratama@university.ac.id,IoT,"Sensor Networks, Embedded Systems, Automation",4,+6287147530309,2023-05-05
+17,198263626,Omar Kusuma,omar.kusuma@university.ac.id,Computer Vision,"Image Processing, Object Detection, CNN",3,+6288719962896,2023-08-05
+18,198307757,Kartika Sari,kartika.sari@university.ac.id,IoT,"Sensor Networks, Embedded Systems, Automation",5,+6283148728483,2024-01-18
+19,198798975,Indra Kusuma,indra.kusuma@university.ac.id,Information Systems,"Business Process, ERP, Data Governance",4,+6283815507143,2020-11-09
+20,198565579,Laksana Pratama,laksana.pratama@university.ac.id,Computer Vision,"Image Processing, Object Detection, CNN",3,+6288067414708,2022-09-27

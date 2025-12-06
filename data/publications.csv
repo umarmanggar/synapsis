@@ -1,0 +1,101 @@
+id,lecturer_id,lecturer_name,title,year,venue
+1,2,Siti Sari,Database Systems based on CNN in Healthcare,2023,Elsevier
+2,4,Taufik Rahmawati,IoT using Support Vector Machine in Smart City,2023,IEEE Conference
+3,12,Hana Saputra,Information Retrieval based on CNN in E-commerce,2012,IEEE Conference
+4,10,Gilang Rahmawati,Natural Language Processing using Support Vector Machine for Finance,2020,ICoDSE
+5,8,Gilang Sari,Machine Learning with Blockchain Integration for Finance,2023,ICITEE
+6,6,Laksana Santoso,Information Retrieval using Genetic Algorithm for Finance,2019,ICoDSE
+7,17,Omar Kusuma,Cloud Computing using Regression Models in Healthcare,2024,ICoICT
+8,12,Hana Saputra,Big Data with IoT Sensors in E-commerce,2017,Elsevier
+9,10,Gilang Rahmawati,Data Mining using Support Vector Machine for Transportation,2013,IEEE Conference
+10,6,Laksana Santoso,Artificial Intelligence based on CNN for Transportation,2017,ICoDSE
+11,17,Omar Kusuma,Cloud Computing using Regression Models in Healthcare,2023,Indonesian ICT Conference
+12,2,Siti Sari,Information Retrieval based on CNN in E-commerce,2013,ICoDSE
+13,19,Indra Kusuma,Software Engineering based on Edge Computing for Transportation,2021,Springer Journal
+14,8,Gilang Sari,Natural Language Processing using TF-IDF for Finance,2024,Elsevier
+15,16,Eko Pratama,Natural Language Processing using Support Vector Machine for Education,2018,Elsevier
+16,7,Dewi Hidayat,Sentiment Analysis based on Edge Computing for Transportation,2014,Elsevier
+17,3,Hana Kusuma,Blockchain using Support Vector Machine in Agriculture,2023,ICITEE
+18,7,Dewi Hidayat,Database Systems based on CNN in Smart City,2020,ICITEE
+19,3,Hana Kusuma,IoT with Random Forest for Social Media,2018,Elsevier
+20,20,Laksana Pratama,Database Systems with IoT Sensors in Energy Management,2015,ICITEE
+21,6,Laksana Santoso,Data Visualization using Regression Models in Healthcare,2015,ICoICT
+22,4,Taufik Rahmawati,Deep Learning using Regression Models for Transportation,2018,Elsevier
+23,8,Gilang Sari,Natural Language Processing using Support Vector Machine for Transportation,2015,ICITEE
+24,9,Dewi Hidayat,Neural Networks using Genetic Algorithm for Social Media,2014,Elsevier
+25,10,Gilang Rahmawati,Data Mining using Support Vector Machine in Energy Management,2020,Elsevier
+26,4,Taufik Rahmawati,Knowledge Graphs using Genetic Algorithm in E-commerce,2017,Springer Journal
+27,1,Dewi Saputra,Data Mining with Blockchain Integration for Social Media,2013,ICoICT
+28,20,Laksana Pratama,Deep Learning based on CNN in Smart City,2022,Springer Journal
+29,16,Eko Pratama,Recommendation Systems using Reinforcement Learning for Education,2018,Indonesian ICT Conference
+30,8,Gilang Sari,Data Governance based on Cloud Platform in Energy Management,2016,ICoDSE
+31,15,Hana Pratama,Machine Learning based on Edge Computing for Education,2022,ICoDSE
+32,1,Dewi Saputra,Cloud Computing using Regression Models for Transportation,2013,Elsevier
+33,15,Hana Pratama,Recommendation Systems with Random Forest for Social Media,2012,ICITEE
+34,20,Laksana Pratama,Cloud Computing with Blockchain Integration in Smart City,2020,IEEE Conference
+35,10,Gilang Rahmawati,Database Systems with LSTM Model in Energy Management,2021,Springer Journal
+36,20,Laksana Pratama,Data Mining with Deep Neural Network in Smart City,2020,ICoICT
+37,9,Dewi Hidayat,Predictive Analytics using TF-IDF for Transportation,2019,IEEE Conference
+38,11,Maya Rahmawati,Computer Vision with Deep Neural Network in Agriculture,2015,IEEE Conference
+39,16,Eko Pratama,IoT using Reinforcement Learning for Education,2013,ICITEE
+40,16,Eko Pratama,Neural Networks based on CNN in Energy Management,2024,Springer Journal
+41,17,Omar Kusuma,Data Mining based on Edge Computing for Social Media,2020,Springer Journal
+42,2,Siti Sari,Cloud Computing with Blockchain Integration in E-commerce,2015,ICoDSE
+43,16,Eko Pratama,Cybersecurity with IoT Sensors in Agriculture,2018,ICITEE
+44,11,Maya Rahmawati,Database Systems with Deep Neural Network for Social Media,2020,Indonesian ICT Conference
+45,20,Laksana Pratama,Computer Vision using Support Vector Machine for Finance,2013,Elsevier
+46,13,Taufik Santoso,Machine Learning using Reinforcement Learning in Energy Management,2015,ICoDSE
+47,19,Indra Kusuma,IoT using TF-IDF for Education,2023,ICITEE
+48,3,Hana Kusuma,Deep Learning using Support Vector Machine for Education,2012,ICoICT
+49,8,Gilang Sari,Data Visualization based on CNN in Energy Management,2015,Elsevier
+50,11,Maya Rahmawati,Neural Networks using Support Vector Machine in Energy Management,2014,ICITEE
+51,20,Laksana Pratama,Knowledge Graphs using Reinforcement Learning for Social Media,2015,ICoICT
+52,14,Indra Pratama,Neural Networks using Regression Models in E-commerce,2015,IEEE Conference
+53,16,Eko Pratama,Computer Vision based on Edge Computing in E-commerce,2017,Indonesian ICT Conference
+54,19,Indra Kusuma,Recommendation Systems based on Cloud Platform in Healthcare,2022,ICITEE
+55,18,Kartika Sari,Database Systems based on CNN in Healthcare,2018,ICITEE
+56,4,Taufik Rahmawati,Data Visualization using Regression Models for Education,2015,Springer Journal
+57,16,Eko Pratama,Cybersecurity with Blockchain Integration for Social Media,2014,Indonesian ICT Conference
+58,8,Gilang Sari,Big Data with LSTM Model for Social Media,2015,ICoICT
+59,18,Kartika Sari,Natural Language Processing based on Cloud Platform in Energy Management,2013,IEEE Conference
+60,3,Hana Kusuma,Database Systems with Blockchain Integration in Healthcare,2013,ICoICT
+61,7,Dewi Hidayat,IoT with Random Forest in E-commerce,2019,Indonesian ICT Conference
+62,2,Siti Sari,Cybersecurity using Genetic Algorithm in Healthcare,2014,Indonesian ICT Conference
+63,15,Hana Pratama,Machine Learning using Genetic Algorithm in Agriculture,2024,ICoICT
+64,20,Laksana Pratama,Sentiment Analysis with LSTM Model in E-commerce,2023,ICITEE
+65,1,Dewi Saputra,Information Retrieval based on Edge Computing for Social Media,2014,Springer Journal
+66,5,Indra Pratama,Software Engineering using Support Vector Machine in Healthcare,2021,ICITEE
+67,18,Kartika Sari,Information Retrieval using TF-IDF for Transportation,2012,IEEE Conference
+68,17,Omar Kusuma,Knowledge Graphs based on Cloud Platform in Energy Management,2020,Springer Journal
+69,6,Laksana Santoso,Deep Learning with Blockchain Integration for Education,2014,IEEE Conference
+70,15,Hana Pratama,Data Governance based on CNN for Finance,2018,IEEE Conference
+71,10,Gilang Rahmawati,Knowledge Graphs using Support Vector Machine in Healthcare,2021,IEEE Conference
+72,7,Dewi Hidayat,Recommendation Systems based on Edge Computing in Energy Management,2017,Elsevier
+73,19,Indra Kusuma,Cybersecurity based on Edge Computing for Transportation,2015,Elsevier
+74,10,Gilang Rahmawati,Artificial Intelligence with Random Forest in Agriculture,2019,Elsevier
+75,14,Indra Pratama,Natural Language Processing using TF-IDF for Social Media,2021,ICoDSE
+76,20,Laksana Pratama,Computer Vision based on CNN in Energy Management,2015,ICoDSE
+77,15,Hana Pratama,Cloud Computing with Random Forest for Transportation,2013,Springer Journal
+78,6,Laksana Santoso,Blockchain with LSTM Model in Smart City,2019,ICoICT
+79,17,Omar Kusuma,Information Retrieval with IoT Sensors in Agriculture,2021,ICoICT
+80,3,Hana Kusuma,Database Systems with Blockchain Integration in Healthcare,2022,ICoICT
+81,15,Hana Pratama,Information Retrieval with LSTM Model for Education,2014,Elsevier
+82,18,Kartika Sari,Computer Vision based on CNN in Energy Management,2014,Elsevier
+83,5,Indra Pratama,Software Engineering using Reinforcement Learning for Finance,2023,Elsevier
+84,13,Taufik Santoso,Cybersecurity based on Edge Computing in Agriculture,2020,Indonesian ICT Conference
+85,6,Laksana Santoso,Cloud Computing using TF-IDF for Education,2022,Indonesian ICT Conference
+86,4,Taufik Rahmawati,Cloud Computing using TF-IDF in Healthcare,2017,ICoICT
+87,11,Maya Rahmawati,Data Mining based on Edge Computing in Agriculture,2014,ICITEE
+88,2,Siti Sari,Sentiment Analysis with Blockchain Integration in E-commerce,2020,IEEE Conference
+89,19,Indra Kusuma,Computer Vision based on CNN in Smart City,2020,IEEE Conference
+90,14,Indra Pratama,Blockchain using Reinforcement Learning in Energy Management,2014,Indonesian ICT Conference
+91,9,Dewi Hidayat,Data Mining using TF-IDF in Agriculture,2017,ICoICT
+92,13,Taufik Santoso,Deep Learning with Deep Neural Network for Finance,2022,Springer Journal
+93,7,Dewi Hidayat,Computer Vision with Deep Neural Network in Energy Management,2018,ICoDSE
+94,13,Taufik Santoso,Data Mining using Support Vector Machine in Smart City,2024,ICoICT
+95,6,Laksana Santoso,Big Data using Genetic Algorithm in Healthcare,2014,ICITEE
+96,14,Indra Pratama,Data Visualization using Regression Models in E-commerce,2024,ICITEE
+97,6,Laksana Santoso,IoT with LSTM Model in Smart City,2024,ICITEE
+98,6,Laksana Santoso,Computer Vision using Genetic Algorithm in Healthcare,2019,Springer Journal
+99,13,Taufik Santoso,Cybersecurity based on Cloud Platform for Transportation,2016,ICoICT
+100,18,Kartika Sari,IoT using Support Vector Machine in Healthcare,2022,Springer Journal
